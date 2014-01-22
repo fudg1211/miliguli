@@ -17,6 +17,11 @@
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
   </component>
+  <component name="DatabaseView">
+    <flatten value="false" />
+    <groupTables value="false" />
+    <sortChildren value="false" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="miliguli" />
@@ -32,23 +37,30 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/wp-content/themes/chrome/header.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/chrome/style.css" />
-        <option value="$PROJECT_DIR$/wp-content/themes/chrome/index.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/chromeA/style.css" />
-        <option value="$PROJECT_DIR$/wp-content/themes/chromeA/css/flexslider.css" />
-        <option value="$PROJECT_DIR$/wp-content/themes/chromeA/footer.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/chromeA/css/main.css" />
-        <option value="$PROJECT_DIR$/wp-content/themes/chromeA/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentythirteen/banner.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/chromeA/header.php" />
-        <option value="$PROJECT_DIR$/wp-config.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentythirteen/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentythirteen/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentythirteen/footer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentythirteen/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentythirteen/content-aside.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentythirteen/image.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentythirteen/page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentythirteen/content.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentythirteen/archive.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentythirteen/author.php" />
+        <option value="$PROJECT_DIR$/wp-includes/comment-template.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentythirteen/comments.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentythirteen/css/main.css" />
+        <option value="$PROJECT_DIR$/dialog/demo/b/index.html" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
+    <option name="x" value="3" />
     <option name="y" value="22" />
-    <option name="width" value="1280" />
+    <option name="width" value="1273" />
     <option name="height" value="733" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -96,6 +108,60 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="miliguli" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="miliguli" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dialog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="miliguli" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="miliguli" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dialog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="miliguli" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="miliguli" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dialog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="b" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -104,16 +170,16 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="com.jetbrains.php.gae.AppEnginePhpModulesConfigurable" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/wp-content/themes/chromeA/images" />
-      <recent name="$PROJECT_DIR$/wp-content/themes/chromeA/css" />
-      <recent name="$PROJECT_DIR$/wp-content/themes/chromeA/js" />
+      <recent name="$PROJECT_DIR$/wp-content/themes/twentythirteen/images" />
+      <recent name="$PROJECT_DIR$/wp-content/themes/twentythirteen/css" />
+      <recent name="$PROJECT_DIR$/wp-content/themes/twentythirteen/js" />
+      <recent name="$PROJECT_DIR$/wp-content/themes/twentythirteen" />
       <recent name="$PROJECT_DIR$/wp-content/themes/chromeA" />
-      <recent name="$PROJECT_DIR$/wp-content/themes" />
     </key>
   </component>
   <component name="RunManager">
@@ -142,15 +208,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="733" extended-state="0" />
-    <editor active="false" />
+    <frame x="3" y="22" width="1273" height="733" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925835" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25346375" sideWeight="0.67373574" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -159,7 +225,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32626426" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -178,84 +244,143 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/chromeA/js/html5.js">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentythirteen/page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594" />
+        <state line="22" column="35" selection-start="0" selection-end="1608" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="825">
+          <folding>
+            <element signature="e#6#344#0" expanded="false" />
+          </folding>
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/chromeA/images/pattern-light.svg">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentythirteen/content.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594" />
+        <state line="19" column="23" selection-start="461" selection-end="461" vertical-scroll-proportion="-10.625" vertical-offset="30" max-vertical-offset="960">
+          <folding>
+            <element signature="e#6#199#0" expanded="false" />
+          </folding>
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/chromeA/images/pattern-dark.svg">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentythirteen/single.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="503" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/chromeA/images/mainbanner_bg.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentythirteen/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="500" selection-end="522" vertical-scroll-proportion="10.0" vertical-offset="315" max-vertical-offset="1290">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/chromeA/js/jquery-2.0.3.min.js">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentythirteen/archive.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594" />
+        <state line="28" column="49" selection-start="0" selection-end="1796" vertical-scroll-proportion="-17.5" vertical-offset="0" max-vertical-offset="900">
+          <folding>
+            <element signature="e#6#628#0" expanded="false" />
+          </folding>
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/header.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentythirteen/author.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="17" selection-start="799" selection-end="842" vertical-scroll-proportion="0.52102375" vertical-offset="0" max-vertical-offset="945" />
+        <state line="18" column="17" selection-start="0" selection-end="1719" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="1005">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/chromeA/js/jquery.flexslider-min.js">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentythirteen/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="571" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/chromeA/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="149" column="23" selection-start="4443" selection-end="4443" vertical-scroll-proportion="0.0" vertical-offset="1806" max-vertical-offset="2400" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/chromeA/css/flexslider.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="2" selection-start="188" selection-end="188" vertical-scroll-proportion="0.07537688" vertical-offset="60" max-vertical-offset="1455" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/chromeA/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="261" column="19" selection-start="4856" selection-end="4856" vertical-scroll-proportion="0.92462313" vertical-offset="3363" max-vertical-offset="4050" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/chromeA/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="43" selection-start="530" selection-end="530" vertical-scroll-proportion="0.12727273" vertical-offset="125" max-vertical-offset="735" />
+        <state line="242" column="17" selection-start="3774" selection-end="3774" vertical-scroll-proportion="0.0" vertical-offset="3334" max-vertical-offset="3735">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/chromeA/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="256" selection-end="256" vertical-scroll-proportion="0.12798634" vertical-offset="0" max-vertical-offset="586" />
+        <state line="12" column="0" selection-start="235" selection-end="420" vertical-scroll-proportion="0.3272727" vertical-offset="0" max-vertical-offset="550">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/comment-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1972" column="0" selection-start="67620" selection-end="67620" vertical-scroll-proportion="-0.625" vertical-offset="29460" max-vertical-offset="32265">
+          <folding>
+            <marker date="1390385293000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dialog/demo/a/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="10" selection-start="53" selection-end="53" vertical-scroll-proportion="0.026642984" vertical-offset="30" max-vertical-offset="690">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentythirteen/comments.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="13" selection-start="539" selection-end="539" vertical-scroll-proportion="-2.5" vertical-offset="150" max-vertical-offset="720">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dialog/demo/b/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="95" selection-end="417" vertical-scroll-proportion="0.106571935" vertical-offset="15" max-vertical-offset="1185">
+          <folding>
+            <marker date="1390386337000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/chromeA/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="211" column="0" selection-start="4158" selection-end="4158" vertical-scroll-proportion="0.26480836" vertical-offset="3013" max-vertical-offset="4200">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/chromeA/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="65" selection-start="1335" selection-end="1449" vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="855">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/chromeA/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="42" selection-start="1901" selection-end="1901" vertical-scroll-proportion="0.0" vertical-offset="930" max-vertical-offset="1725" />
+        <state line="24" column="0" selection-start="519" selection-end="2976" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1605">
+          <folding>
+            <marker date="1390370594000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1390370594000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1390370594000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1390370594000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1390370594000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1390370594000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1390370594000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1390370594000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1390370594000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1390370594000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1390370594000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1390370594000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1390370594000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1390370594000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1390370594000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1390370594000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1390370594000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1390370594000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-config-sample.php">
+    <entry file="file://$PROJECT_DIR$/wp-includes/class-wp-walker.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1365" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-cron.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.5968586" vertical-offset="915" max-vertical-offset="1650" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="32" selection-start="483" selection-end="496" vertical-scroll-proportion="0.20477815" vertical-offset="0" max-vertical-offset="1365" />
+        <state line="123" column="13" selection-start="3815" selection-end="3815" vertical-scroll-proportion="0.17761989" vertical-offset="1745" max-vertical-offset="6210">
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>

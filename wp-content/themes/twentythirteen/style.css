@@ -103,7 +103,7 @@ button,
 input,
 select,
 textarea {
-	font-family: "Source Sans Pro", Helvetica, sans-serif;
+	font-family: sans-serif;
 }
 
 body {
@@ -974,7 +974,7 @@ ul.nav-menu li:hover > ul,
 .entry-summary,
 .entry-meta {
 	margin: 0 auto;
-	max-width: 604px;
+	padding:0 10px;
 	width: 100%;
 }
 
@@ -2089,7 +2089,7 @@ footer.entry-meta {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	max-width: 604px;
+    padding:0 10px;
 	width: 100%;
 }
 

@@ -16,21 +16,10 @@
 
 get_header(); ?>
 
-    <div class="mainbannerC">
-        <div class="mainbanner" id="mainbanner">
-            <ul class="slides">
-                <li><img src="http://cdc.tencent.com/wp-content/uploads/2013/06/guanjia.png"/></li>
-                <li><img src="http://cdc.tencent.com/?attachment_id=7906"/></li>
-                <li><img src="http://cdc.tencent.com/?attachment_id=7910"/></li>
-            </ul>
-        </div>
-    </div>
+<?php
+get_banner();
+?>
 
-    <script type="text/javascript">
-        $(window).load(function() {
-            $('#mainbanner').flexslider();
-        });
-    </script>
 
 
     <div class="container">
@@ -105,5 +94,8 @@ get_header(); ?>
 
     </div>
 
+
+
+   <?php comments_template();?>
 <?php
 get_footer();

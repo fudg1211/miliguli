@@ -36,6 +36,26 @@ function get_header( $name = null ) {
 		load_template( ABSPATH . WPINC . '/theme-compat/header.php');
 }
 
+
+/**
+ * 获取banner
+ * @param null $name
+ */
+function get_banner( $name = null ) {
+    do_action( 'get_banner', $name );
+
+    $templates = array();
+    $name = (string) $name;
+    if ( '' !== $name )
+        $templates[] = "header-{$name}.php";
+
+    $templates[] = 'banner.php';
+
+    // Backward compat code will be removed in a future release
+    if ('' == locate_template($templates, true))
+        load_template( ABSPATH . WPINC . '/theme-compat/banner.php');
+}
+
 /**
  * Load footer template.
  *
