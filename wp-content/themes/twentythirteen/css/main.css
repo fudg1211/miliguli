@@ -242,3 +242,11 @@ ol{
 .form-allowed-tags{
     display: none;
 }
+
+.syntaxhighlighter{
+    font-size: 13px !important;
+}
+
+.syntaxhighlighter code,.syntaxhighlighter .line{
+    line-height: 1.3em !important;
+}
