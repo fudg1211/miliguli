@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="JsTestDriver Assertion Framework" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="jar://$USER_HOME$/Library/Application Support/IntelliJIdea12/JsTestDriver/lib/JsTestDriver-plugin.jar!/com/google/jstestdriver/idea/assertFramework/jstd/jsSrc/Asserts.js" />
+        <item url="jar://$USER_HOME$/Library/Application Support/IntelliJIdea12/JsTestDriver/lib/JsTestDriver-plugin.jar!/com/google/jstestdriver/idea/assertFramework/jstd/jsSrc/TestCase.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Library/Application Support/IntelliJIdea12/JsTestDriver/lib/JsTestDriver-plugin.jar!/com/google/jstestdriver/idea/assertFramework/jstd/jsSrc/Asserts.js" />
+      <root url="jar://$USER_HOME$/Library/Application Support/IntelliJIdea12/JsTestDriver/lib/JsTestDriver-plugin.jar!/com/google/jstestdriver/idea/assertFramework/jstd/jsSrc/TestCase.js" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

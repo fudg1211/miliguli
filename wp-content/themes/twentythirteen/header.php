@@ -19,28 +19,15 @@
 <html <?php language_attributes(); ?>>
 <!--<![endif]-->
 <head>
-	<meta charset="<?php bloginfo( 'charset' ); ?>">
-	<meta name="viewport" content="width=device-width">
-	<title><?php wp_title( '|', true, 'right' ); ?></title>
-	<link rel="profile" href="http://gmpg.org/xfn/11">
-	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
-	<!--[if lt IE 9]>
-	<script src="<?php echo get_template_directory_uri(); ?>/js/html5.js"></script>
-	<![endif]-->
-	<?php wp_head(); ?>
-    <link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/css/main.css">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>米粒谷粒：纯净的chrome浏览器插件创作中心</title>
+    <meta name="description" content="米粒谷粒专注纯净的chrome浏览器插件创作" />
+    <meta name="keywords" content="360浏览器，chrome浏览器、二维码、jsonView、userAgent、clearCache、快递查询插件等创作" />
+    <meta name="renderer" content="webkit"/>
+    <link rel="Shortcut Icon" href="<?php echo get_template_directory_uri(); ?>/images/miliguli.ico">
+    <link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/csss/index.css" />
+    <link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/css/dialog.css" />
+    <link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/css/detail.css" />
 </head>
-
-<body <?php body_class(); ?>>
-<div class="topbar">
-    <div class="container">
-        <img src="<?php echo get_template_directory_uri(); ?>/images/logo-1.png" class="logo"/>
-        <ul class="mainNav right">
-            <li class="current_nav"><a href="#">首页</a></li>
-            <li><a href="#">功能介绍</a></li>
-            <li><a href="#">帮助与反馈</a></li>
-        </ul>
-    </div>
-    <div class="clear"></div>
-</div>
+<body>
 

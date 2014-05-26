@@ -21,7 +21,7 @@ define('DB_NAME', 'miliguli');
 define('DB_USER', 'root');
 
 /** MySQL数据库密码 */
-define('DB_PASSWORD', '123456');
+define('DB_PASSWORD', '');
 
 /** MySQL主机 */
 define('DB_HOST', '127.0.0.1');

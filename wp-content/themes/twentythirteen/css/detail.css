@@ -1,0 +1,52 @@
+/*******page*********/
+
+.detailHeader{
+	position: relative;
+	width: 1000px;
+	margin: auto;
+}
+
+
+.detailLogo{
+	position: relative;
+	left: 0;
+	top:10px;
+}
+
+.detailNav{
+	position: absolute;
+	right: 0;
+	top:40px;
+}
+
+.detailNav a{
+	color: #000;
+	margin-left: 20px;
+}
+
+.wrapper{
+	position: relative;
+}
+
+.detailBanner{
+	height: 555px;
+	width: 100%;
+	background:no-repeat center center #75bec3;margin-top: 30px;
+}
+
+.detailContainer{
+	text-align: center;
+	padding-bottom: 50px;
+	position: relative;
+}
+
+.download{
+	position: absolute;
+	left: 635px;
+	top: 265px;
+	background: #656766;
+	border-radius: 5px;
+	padding: 13px 33px;
+	font-size: 21px;
+	color: #fff;
+}
